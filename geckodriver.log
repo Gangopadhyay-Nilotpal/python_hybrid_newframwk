@@ -1,0 +1,789 @@
+1631285387231	geckodriver	INFO	Listening on 127.0.0.1:61076
+1631285390247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileBVQG1z"
+1631285391040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileBVQG1z\\search.json.mozlz4", (void 0)))
+1631285394339	Marionette	INFO	Listening on port 61084
+1631285394414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631285400243	Marionette	INFO	Stopped listening on port 61084
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631285400908	geckodriver	INFO	Listening on 127.0.0.1:59756
+1631285403925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile7oCfDE"
+1631285404519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile7oCfDE\\search.json.mozlz4", (void 0)))
+1631285409085	Marionette	INFO	Listening on port 56812
+1631285409181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631285434688	Marionette	INFO	Stopped listening on port 56812
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631285464137	geckodriver	INFO	Listening on 127.0.0.1:59321
+1631285467165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilemUBVMO"
+1631285467547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilemUBVMO\\search.json.mozlz4", (void 0)))
+1631285469685	Marionette	INFO	Listening on port 59329
+1631285469791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631285479285	Marionette	INFO	Stopped listening on port 59329
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631285479762	geckodriver	INFO	Listening on 127.0.0.1:59376
+1631285482796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileuG7M6e"
+1631285483183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileuG7M6e\\search.json.mozlz4", (void 0)))
+1631285485195	Marionette	INFO	Listening on port 59384
+1631285485422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631285496798	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631285497000	Marionette	INFO	Stopped listening on port 59384
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631285628641	geckodriver	INFO	Listening on 127.0.0.1:60770
+1631285631662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile1T8Vjj"
+1631285632119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile1T8Vjj\\search.json.mozlz4", (void 0)))
+1631285635239	Marionette	INFO	Listening on port 60786
+1631285635309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631285656461	Marionette	INFO	Stopped listening on port 60785
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631292051409	geckodriver	INFO	Listening on 127.0.0.1:56067
+1631292054437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile8M9vZg"
+1631292054901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilechVYwa\\search.json.mozlz4", (void 0)))
+1631292058218	Marionette	INFO	Listening on port 56083
+1631292058674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631292075963	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631292076166	Marionette	INFO	Stopped listening on port 56083
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631294616898	geckodriver	INFO	Listening on 127.0.0.1:50397
+1631294619942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile8DHMYj"
+1631294620369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile8DHMYj\\search.json.mozlz4", (void 0)))
+1631294623139	Marionette	INFO	Listening on port 50415
+1631294623202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631294636394	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631294636597	Marionette	INFO	Stopped listening on port 50411
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631295641233	geckodriver	INFO	Listening on 127.0.0.1:60320
+1631295644254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileKLgl1q"
+1631295644682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileKLgl1q\\search.json.mozlz4", (void 0)))
+1631295647561	Marionette	INFO	Listening on port 60337
+1631295647907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631295669443	Marionette	INFO	Stopped listening on port 60337
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631296704307	geckodriver	INFO	Listening on 127.0.0.1:53490
+1631296707338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileMnb6bR"
+1631296707792	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileMnb6bR\\search.json.mozlz4", (void 0)))
+1631296710688	Marionette	INFO	Listening on port 53506
+1631296711019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631296724564	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631296724767	Marionette	INFO	Stopped listening on port 53503
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631297196586	geckodriver	INFO	Listening on 127.0.0.1:51656
+1631297199627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile7CiX4n"
+1631297200087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileJ9it2b\\search.json.mozlz4", (void 0)))
+1631297202913	Marionette	INFO	Listening on port 51670
+1631297203238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631297226754	Marionette	INFO	Stopped listening on port 51670
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631343617545	geckodriver	INFO	Listening on 127.0.0.1:54362
+1631343620601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilec7GDZe"
+1631343621282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilec7GDZe\\search.json.mozlz4", (void 0)))
+1631343623839	Marionette	INFO	Listening on port 54371
+1631343624230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631343672423	Marionette	INFO	Stopped listening on port 54371
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631344969350	geckodriver	INFO	Listening on 127.0.0.1:62757
+1631344972386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile5Ta9vS"
+1631344972734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile5Ta9vS\\search.json.mozlz4", (void 0)))
+1631344974827	Marionette	INFO	Listening on port 62765
+1631344975012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631345014184	Marionette	INFO	Stopped listening on port 62765
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631345158481	geckodriver	INFO	Listening on 127.0.0.1:50377
+1631345161508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileB40cVJ"
+1631345161972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileB40cVJ\\search.json.mozlz4", (void 0)))
+1631345163949	Marionette	INFO	Listening on port 57572
+1631345164138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631345572391	Marionette	INFO	Stopped listening on port 57572
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileet2p6a\\search.json.mozlz4", (void 0)))
+1631345416116	Marionette	INFO	Listening on port 49626
+1631345416543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631345450662	Marionette	INFO	Stopped listening on port 49626
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631345497553	geckodriver	INFO	Listening on 127.0.0.1:50752
+1631345500590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileCHkKn1"
+1631345500914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileCHkKn1\\search.json.mozlz4", (void 0)))
+1631345502881	Marionette	INFO	Listening on port 50772
+1631345503214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631345573929	Marionette	INFO	Stopped listening on port 50772
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631345581751	geckodriver	INFO	Listening on 127.0.0.1:65395
+1631345584793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileldURE7"
+1631345585209	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileldURE7\\search.json.mozlz4", (void 0)))
+1631345587309	Marionette	INFO	Listening on port 65403
+1631345587421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631345634883	Marionette	INFO	Stopped listening on port 65403
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631345887761	geckodriver	INFO	Listening on 127.0.0.1:58938
+1631345890791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileLdTSuh"
+1631345891172	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileLdTSuh\\search.json.mozlz4", (void 0)))
+1631345893420	Marionette	INFO	Listening on port 58946
+1631345893912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631345929329	Marionette	INFO	Stopped listening on port 58946
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631345968972	geckodriver	INFO	Listening on 127.0.0.1:49232
+1631345972013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileZe87Kw"
+1631345972354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileZe87Kw\\search.json.mozlz4", (void 0)))
+1631345974265	Marionette	INFO	Listening on port 49240
+1631345974634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631346015778	Marionette	INFO	Stopped listening on port 49240
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631346498569	geckodriver	INFO	Listening on 127.0.0.1:53646
+1631346501592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileNqzGLA"
+1631346502045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileNqzGLA\\search.json.mozlz4", (void 0)))
+1631346504927	Marionette	INFO	Listening on port 53654
+1631346505238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631346541428	Marionette	INFO	Stopped listening on port 53654
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631346939239	geckodriver	INFO	Listening on 127.0.0.1:63479
+1631346942268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile2hVov7"
+1631346942686	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile2hVov7\\search.json.mozlz4", (void 0)))
+1631346945161	Marionette	INFO	Listening on port 63487
+1631346945393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631346986016	Marionette	INFO	Stopped listening on port 63487
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631347108207	geckodriver	INFO	Listening on 127.0.0.1:63067
+1631347111228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileUUBbyC"
+1631347111640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileUUBbyC\\search.json.mozlz4", (void 0)))
+1631347114078	Marionette	INFO	Listening on port 63075
+1631347114353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631348000832	Marionette	INFO	Stopped listening on port 63075
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilevbuMI4"
+1631347793301	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilevbuMI4\\search.json.mozlz4", (void 0)))
+1631347795394	Marionette	INFO	Listening on port 60910
+1631347795609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631347801343	Marionette	INFO	Stopped listening on port 60910
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631347801994	geckodriver	INFO	Listening on 127.0.0.1:57056
+1631347805026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileBO2BtY"
+1631347805689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileBO2BtY\\search.json.mozlz4", (void 0)))
+1631347810070	Marionette	INFO	Listening on port 54434
+1631347810311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631347820064	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631347820269	Marionette	INFO	Stopped listening on port 54434
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631347820920	geckodriver	INFO	Listening on 127.0.0.1:54489
+1631347823946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileefgsiD"
+1631347824302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileefgsiD\\search.json.mozlz4", (void 0)))
+1631347827715	Marionette	INFO	Listening on port 54497
+1631347828083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631347866303	Marionette	INFO	Stopped listening on port 54497
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631347997522	geckodriver	INFO	Listening on 127.0.0.1:64057
+1631348000552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile86C4iC"
+1631348001089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile86C4iC\\search.json.mozlz4", (void 0)))
+1631348003345	Marionette	INFO	Listening on port 64065
+1631348003680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631348011503	Marionette	INFO	Stopped listening on port 64065
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631348012096	geckodriver	INFO	Listening on 127.0.0.1:64115
+1631348015133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile4IJEoT"
+1631348015547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile4IJEoT\\search.json.mozlz4", (void 0)))
+1631348018095	Marionette	INFO	Listening on port 64123
+1631348018270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631348029985	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631348030189	Marionette	INFO	Stopped listening on port 64123
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1631348030820	geckodriver	INFO	Listening on 127.0.0.1:62859
+1631348033844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilePqnke3"
+1631348034182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilePqnke3\\search.json.mozlz4", (void 0)))
+1631348036071	Marionette	INFO	Listening on port 62867
+1631348036468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631348073978	Marionette	INFO	Stopped listening on port 62867
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631348412940	geckodriver	INFO	Listening on 127.0.0.1:53409
+1631348415980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileknF395"
+1631348416389	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileknF395\\search.json.mozlz4", (void 0)))
+1631348418400	Marionette	INFO	Listening on port 53417
+1631348418608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631348426485	Marionette	INFO	Stopped listening on port 53417
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631348427098	geckodriver	INFO	Listening on 127.0.0.1:53468
+1631348430134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilezx3TEH"
+1631348430523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilezx3TEH\\search.json.mozlz4", (void 0)))
+1631348433062	Marionette	INFO	Listening on port 53476
+1631348433267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631348445957	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631348446160	Marionette	INFO	Stopped listening on port 53476
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631348446798	geckodriver	INFO	Listening on 127.0.0.1:53535
+1631348449836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile28wg1i"
+1631348450242	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile28wg1i\\search.json.mozlz4", (void 0)))
+1631348452708	Marionette	INFO	Listening on port 53543
+1631348452981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631348489931	Marionette	INFO	Stopped listening on port 53543
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631348695821	geckodriver	INFO	Listening on 127.0.0.1:62499
+1631348698872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilePsqCnf"
+1631348699304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilePsqCnf\\search.json.mozlz4", (void 0)))
+1631348701843	Marionette	INFO	Listening on port 62507
+1631348702004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631348708789	Marionette	INFO	Stopped listening on port 62507
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631348709403	geckodriver	INFO	Listening on 127.0.0.1:62554
+1631348712450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileWZg6dE"
+1631348712931	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileWZg6dE\\search.json.mozlz4", (void 0)))
+1631348714954	Marionette	INFO	Listening on port 62565
+1631348715076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631348726358	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631348726562	Marionette	INFO	Stopped listening on port 62565
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1631348727215	geckodriver	INFO	Listening on 127.0.0.1:57544
+1631348730250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile87GePZ"
+1631348730661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile87GePZ\\search.json.mozlz4", (void 0)))
+1631348732694	Marionette	INFO	Listening on port 57552
+1631348732882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631348770280	Marionette	INFO	Stopped listening on port 57552
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631358524631	geckodriver	INFO	Listening on 127.0.0.1:53833
+1631358527660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileiy5fea"
+1631358528374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileiy5fea\\search.json.mozlz4", (void 0)))
+1631358532249	Marionette	INFO	Listening on port 53841
+1631358532414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631358543794	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631358879161	Marionette	INFO	Stopped listening on port 53841
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileYsydhF\\search.json.mozlz4", (void 0)))
+1631358879232	Marionette	INFO	Listening on port 52557
+1631358879631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631358891657	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631358996483	Marionette	INFO	Stopped listening on port 52557
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileYr4LMp\\search.json.mozlz4", (void 0)))
+1631358995083	Marionette	INFO	Listening on port 63832
+1631358995442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631359019824	Marionette	INFO	Stopped listening on port 63832
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631359034172	geckodriver	INFO	Listening on 127.0.0.1:55721
+1631359037185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileSFwelv"
+1631359037757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileSFwelv\\search.json.mozlz4", (void 0)))
+1631359041374	Marionette	INFO	Listening on port 50146
+1631359041435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/datatables.net/js/jquery.dataTables.min.js, line 36: TypeError: b is undefined
+1631359076304	Marionette	INFO	Stopped listening on port 50146
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631359148225	geckodriver	INFO	Listening on 127.0.0.1:64029
+1631359151256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileAEdIim"
+1631359151669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileAEdIim\\search.json.mozlz4", (void 0)))
+1631359153937	Marionette	INFO	Listening on port 57606
+1631359154380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631360824251	Marionette	INFO	Stopped listening on port 57606
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631360838416	geckodriver	INFO	Listening on 127.0.0.1:52057
+1631360841454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileywyNFf"
+1631360841887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileywyNFf\\search.json.mozlz4", (void 0)))
+1631360844300	Marionette	INFO	Listening on port 62332
+1631360844585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631360866750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631360966315	Marionette	INFO	Stopped listening on port 62332
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631360969147	geckodriver	INFO	Listening on 127.0.0.1:54544
+1631360972176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofiler6EEfP"
+1631360972595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofiler6EEfP\\search.json.mozlz4", (void 0)))
+1631360974977	Marionette	INFO	Listening on port 61473
+1631360975301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631361081214	Marionette	INFO	Stopped listening on port 61473
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631361084226	geckodriver	INFO	Listening on 127.0.0.1:59973
+1631361087264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileC7igFH"
+1631361087678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileC7igFH\\search.json.mozlz4", (void 0)))
+1631361090039	Marionette	INFO	Listening on port 61303
+1631361090397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631361348563	Marionette	INFO	Stopped listening on port 61303
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631361361621	geckodriver	INFO	Listening on 127.0.0.1:63537
+1631361364661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileFMvPS1"
+1631361365016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileFMvPS1\\search.json.mozlz4", (void 0)))
+1631361367055	Marionette	INFO	Listening on port 61047
+1631361367281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631361408424	Marionette	INFO	Stopped listening on port 61047
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631361514385	geckodriver	INFO	Listening on 127.0.0.1:53580
+1631361517424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileMK0CPJ"
+1631361517842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileMK0CPJ\\search.json.mozlz4", (void 0)))
+1631361519860	Marionette	INFO	Listening on port 53588
+1631361520050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631362119970	Marionette	INFO	Stopped listening on port 53588
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631418641906	geckodriver	INFO	Listening on 127.0.0.1:52661
+1631418644942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileHTubBP"
+1631418645610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileHTubBP\\search.json.mozlz4", (void 0)))
+1631418648016	Marionette	INFO	Listening on port 52674
+1631418648080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631418816296	Marionette	INFO	Stopped listening on port 52674
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631418822457	geckodriver	INFO	Listening on 127.0.0.1:60807
+1631418825475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile14a1zH"
+1631418825841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile14a1zH\\search.json.mozlz4", (void 0)))
+1631418827877	Marionette	INFO	Listening on port 60815
+1631418828096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631418854071	Marionette	INFO	Stopped listening on port 60815
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631418940993	geckodriver	INFO	Listening on 127.0.0.1:52707
+1631418944014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilerw2PTj"
+1631418944403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilerw2PTj\\search.json.mozlz4", (void 0)))
+1631418946326	Marionette	INFO	Listening on port 52715
+1631418946641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631418977237	Marionette	INFO	Stopped listening on port 52715
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631419239727	geckodriver	INFO	Listening on 127.0.0.1:49364
+1631419242745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilexH6oWZ"
+1631419243101	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofilexH6oWZ\\search.json.mozlz4", (void 0)))
+1631419245049	Marionette	INFO	Listening on port 49372
+1631419245367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631419276683	Marionette	INFO	Stopped listening on port 49372
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631419277324	geckodriver	INFO	Listening on 127.0.0.1:64114
+1631419280350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileQljBZe"
+1631419280703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileQljBZe\\search.json.mozlz4", (void 0)))
+1631419282666	Marionette	INFO	Listening on port 52746
+1631419282976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631419289529	Marionette	INFO	Stopped listening on port 52746
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631419289989	geckodriver	INFO	Listening on 127.0.0.1:52795
+1631419293004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileucBC96"
+1631419293469	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileucBC96\\search.json.mozlz4", (void 0)))
+1631419295376	Marionette	INFO	Listening on port 63245
+1631419295626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631419304970	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631419305173	Marionette	INFO	Stopped listening on port 63245
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631419305772	geckodriver	INFO	Listening on 127.0.0.1:63302
+1631419308797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile2HuVuo"
+1631419309149	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile2HuVuo\\search.json.mozlz4", (void 0)))
+1631419311097	Marionette	INFO	Listening on port 63310
+1631419311419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631419349222	Marionette	INFO	Stopped listening on port 63310
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631419349725	geckodriver	INFO	Listening on 127.0.0.1:51831
+1631419352751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileomQk76"
+1631419353137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileomQk76\\search.json.mozlz4", (void 0)))
+1631419355076	Marionette	INFO	Listening on port 65422
+1631419355377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:499:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/fram1631429774875	Marionette	INFO	Stopped listening on port 65487
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 103))
+1631429773508	Marionette	INFO	Stopped listening on port 65422
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileZ46VPK\\search.json.mozlz4", (void 0)))
+1631421294574	Marionette	INFO	Listening on port 52154
+1631421294600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631421323744	Marionette	INFO	Stopped listening on port 52154
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631421324274	geckodriver	INFO	Listening on 127.0.0.1:55165
+1631421327290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile574pQz"
+1631421327601	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile574pQz\\search.json.mozlz4", (void 0)))
+1631421329509	Marionette	INFO	Listening on port 55173
+1631421329922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631421342674	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631421342878	Marionette	INFO	Stopped listening on port 55173
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631421425380	geckodriver	INFO	Listening on 127.0.0.1:65041
+1631421428412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileFtpixn"
+1631421428692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofileFtpixn\\search.json.mozlz4", (void 0)))
+1631421430824	Marionette	INFO	Listening on port 65049
+1631421431039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631421458806	Marionette	INFO	Stopped listening on port 65049
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1631421459336	geckodriver	INFO	Listening on 127.0.0.1:65107
+1631421462353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile5YWIH7"
+1631421462670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nilot\\AppData\\Local\\Temp\\rust_mozprofile5YWIH7\\search.json.mozlz4", (void 0)))
+1631421464709	Marionette	INFO	Listening on port 65115
+1631421464978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631421477792	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1631421477996	Marionette	INFO	Stopped listening on port 65115
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
